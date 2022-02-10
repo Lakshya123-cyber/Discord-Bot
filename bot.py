@@ -133,4 +133,4 @@ async def change_status():
     await client.change_presence(activity=discord.Game(choice(status)))
 
 
-client.run("OTQxMTg5NzQ1MDgwNDA2MDU3.YgSVQQ.nN386WOW46UIOkpj1s3d5XAsKog")
+client.run("Your Token Here")
